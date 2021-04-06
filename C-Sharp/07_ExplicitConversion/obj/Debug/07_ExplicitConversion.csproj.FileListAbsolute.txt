@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\07_ExplicitConversion\bin\Debug\07_ExplicitConversion.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\07_ExplicitConversion\bin\Debug\07_ExplicitConversion.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\07_ExplicitConversion\bin\Debug\07_ExplicitConversion.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\07_ExplicitConversion\obj\Debug\07_ExplicitConversion.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\07_ExplicitConversion\obj\Debug\07_ExplicitConversion.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\07_ExplicitConversion\obj\Debug\07_ExplicitConversion.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\07_ExplicitConversion\obj\Debug\07_ExplicitConversion.csprojAssemblyReference.cache

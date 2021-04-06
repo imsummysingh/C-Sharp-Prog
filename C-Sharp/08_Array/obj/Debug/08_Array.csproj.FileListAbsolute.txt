@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\08_Array\bin\Debug\08_Array.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\08_Array\bin\Debug\08_Array.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\08_Array\bin\Debug\08_Array.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\08_Array\obj\Debug\08_Array.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\08_Array\obj\Debug\08_Array.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\08_Array\obj\Debug\08_Array.pdb

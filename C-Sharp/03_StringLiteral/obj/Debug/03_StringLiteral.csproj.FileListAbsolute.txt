@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\03_StringLiteral\bin\Debug\03_StringLiteral.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\03_StringLiteral\bin\Debug\03_StringLiteral.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\03_StringLiteral\bin\Debug\03_StringLiteral.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\03_StringLiteral\obj\Debug\03_StringLiteral.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\03_StringLiteral\obj\Debug\03_StringLiteral.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\03_StringLiteral\obj\Debug\03_StringLiteral.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\03_StringLiteral\obj\Debug\03_StringLiteral.pdb

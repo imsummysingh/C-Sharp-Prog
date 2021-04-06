@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\02_ReadWrite\bin\Debug\02_ReadWrite.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\02_ReadWrite\bin\Debug\02_ReadWrite.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\02_ReadWrite\bin\Debug\02_ReadWrite.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\02_ReadWrite\obj\Debug\02_ReadWrite.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\02_ReadWrite\obj\Debug\02_ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\02_ReadWrite\obj\Debug\02_ReadWrite.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\02_ReadWrite\obj\Debug\02_ReadWrite.pdb

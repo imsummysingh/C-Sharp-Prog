@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\11_While Loop\bin\Debug\11_While Loop.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\11_While Loop\bin\Debug\11_While Loop.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\11_While Loop\bin\Debug\11_While Loop.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\11_While Loop\obj\Debug\11_While Loop.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\11_While Loop\obj\Debug\11_While Loop.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\11_While Loop\obj\Debug\11_While Loop.pdb

@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\06_ImplicitConversion\bin\Debug\06_ImplicitConversion.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\06_ImplicitConversion\bin\Debug\06_ImplicitConversion.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\06_ImplicitConversion\bin\Debug\06_ImplicitConversion.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\06_ImplicitConversion\obj\Debug\06_ImplicitConversion.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\06_ImplicitConversion\obj\Debug\06_ImplicitConversion.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\06_ImplicitConversion\obj\Debug\06_ImplicitConversion.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\06_ImplicitConversion\obj\Debug\06_ImplicitConversion.pdb
