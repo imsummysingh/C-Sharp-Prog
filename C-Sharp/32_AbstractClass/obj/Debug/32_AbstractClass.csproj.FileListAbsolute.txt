@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\32_AbstractClass\bin\Debug\32_AbstractClass.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\32_AbstractClass\bin\Debug\32_AbstractClass.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\32_AbstractClass\bin\Debug\32_AbstractClass.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\32_AbstractClass\obj\Debug\32_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\32_AbstractClass\obj\Debug\32_AbstractClass.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\32_AbstractClass\obj\Debug\32_AbstractClass.pdb

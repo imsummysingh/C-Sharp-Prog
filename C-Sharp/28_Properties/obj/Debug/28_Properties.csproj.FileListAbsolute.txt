@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\28_Properties\bin\Debug\28_Properties.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\28_Properties\bin\Debug\28_Properties.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\28_Properties\bin\Debug\28_Properties.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\28_Properties\obj\Debug\28_Properties.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\28_Properties\obj\Debug\28_Properties.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\28_Properties\obj\Debug\28_Properties.pdb

@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\18_ParamsParameter\bin\Debug\18_ParamsParameter.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\18_ParamsParameter\bin\Debug\18_ParamsParameter.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\18_ParamsParameter\bin\Debug\18_ParamsParameter.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\18_ParamsParameter\obj\Debug\18_ParamsParameter.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\18_ParamsParameter\obj\Debug\18_ParamsParameter.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\18_ParamsParameter\obj\Debug\18_ParamsParameter.pdb

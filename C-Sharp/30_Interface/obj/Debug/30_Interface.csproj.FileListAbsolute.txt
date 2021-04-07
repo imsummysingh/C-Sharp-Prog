@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\30_Interface\bin\Debug\30_Interface.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\30_Interface\bin\Debug\30_Interface.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\30_Interface\bin\Debug\30_Interface.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\30_Interface\obj\Debug\30_Interface.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\30_Interface\obj\Debug\30_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\30_Interface\obj\Debug\30_Interface.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\30_Interface\obj\Debug\30_Interface.pdb

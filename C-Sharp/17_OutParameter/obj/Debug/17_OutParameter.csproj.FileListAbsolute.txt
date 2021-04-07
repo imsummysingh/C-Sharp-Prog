@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\17_OutParameter\bin\Debug\17_OutParameter.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\17_OutParameter\bin\Debug\17_OutParameter.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\17_OutParameter\bin\Debug\17_OutParameter.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\17_OutParameter\obj\Debug\17_OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\17_OutParameter\obj\Debug\17_OutParameter.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\17_OutParameter\obj\Debug\17_OutParameter.pdb

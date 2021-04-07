@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\33_MultipleInterface\bin\Debug\33_MultipleInterface.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\33_MultipleInterface\bin\Debug\33_MultipleInterface.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\33_MultipleInterface\bin\Debug\33_MultipleInterface.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\33_MultipleInterface\obj\Debug\33_MultipleInterface.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\33_MultipleInterface\obj\Debug\33_MultipleInterface.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\33_MultipleInterface\obj\Debug\33_MultipleInterface.pdb

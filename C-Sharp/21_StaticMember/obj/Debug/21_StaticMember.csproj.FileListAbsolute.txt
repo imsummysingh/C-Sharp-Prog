@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\21_StaticMember\bin\Debug\21_StaticMember.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\21_StaticMember\bin\Debug\21_StaticMember.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\21_StaticMember\bin\Debug\21_StaticMember.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\21_StaticMember\obj\Debug\21_StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\21_StaticMember\obj\Debug\21_StaticMember.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\21_StaticMember\obj\Debug\21_StaticMember.pdb

@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\22_Inheritance\bin\Debug\22_Inheritance.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\22_Inheritance\bin\Debug\22_Inheritance.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\22_Inheritance\bin\Debug\22_Inheritance.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\22_Inheritance\obj\Debug\22_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\22_Inheritance\obj\Debug\22_Inheritance.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\22_Inheritance\obj\Debug\22_Inheritance.pdb

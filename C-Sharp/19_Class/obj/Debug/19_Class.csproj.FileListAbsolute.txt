@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\19_Class\bin\Debug\19_Class.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\19_Class\bin\Debug\19_Class.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\19_Class\bin\Debug\19_Class.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\19_Class\obj\Debug\19_Class.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\19_Class\obj\Debug\19_Class.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\19_Class\obj\Debug\19_Class.pdb

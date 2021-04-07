@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\27_GetterSetter\bin\Debug\27_GetterSetter.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\27_GetterSetter\bin\Debug\27_GetterSetter.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\27_GetterSetter\bin\Debug\27_GetterSetter.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\27_GetterSetter\obj\Debug\27_GetterSetter.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\27_GetterSetter\obj\Debug\27_GetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\27_GetterSetter\obj\Debug\27_GetterSetter.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\27_GetterSetter\obj\Debug\27_GetterSetter.pdb

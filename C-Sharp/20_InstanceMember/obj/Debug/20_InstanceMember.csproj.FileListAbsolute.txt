@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\20_InstanceMember\bin\Debug\20_InstanceMember.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\20_InstanceMember\bin\Debug\20_InstanceMember.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\20_InstanceMember\bin\Debug\20_InstanceMember.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\20_InstanceMember\obj\Debug\20_InstanceMember.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\20_InstanceMember\obj\Debug\20_InstanceMember.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\20_InstanceMember\obj\Debug\20_InstanceMember.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\20_InstanceMember\obj\Debug\20_InstanceMember.pdb
