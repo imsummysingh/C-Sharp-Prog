@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\48_ThreadStartDelegate\bin\Debug\48_ThreadStartDelegate.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\48_ThreadStartDelegate\bin\Debug\48_ThreadStartDelegate.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\48_ThreadStartDelegate\bin\Debug\48_ThreadStartDelegate.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\48_ThreadStartDelegate\obj\Debug\48_ThreadStartDelegate.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\48_ThreadStartDelegate\obj\Debug\48_ThreadStartDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\48_ThreadStartDelegate\obj\Debug\48_ThreadStartDelegate.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\48_ThreadStartDelegate\obj\Debug\48_ThreadStartDelegate.pdb

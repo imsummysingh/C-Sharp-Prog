@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\34_Delegate\bin\Debug\34_Delegate.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\34_Delegate\bin\Debug\34_Delegate.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\34_Delegate\bin\Debug\34_Delegate.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\34_Delegate\obj\Debug\34_Delegate.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\34_Delegate\obj\Debug\34_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\34_Delegate\obj\Debug\34_Delegate.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\34_Delegate\obj\Debug\34_Delegate.pdb

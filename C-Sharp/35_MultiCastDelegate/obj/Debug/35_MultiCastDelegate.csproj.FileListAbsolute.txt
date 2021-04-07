@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\35_MultiCastDelegate\bin\Debug\35_MultiCastDelegate.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\35_MultiCastDelegate\bin\Debug\35_MultiCastDelegate.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\35_MultiCastDelegate\bin\Debug\35_MultiCastDelegate.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\35_MultiCastDelegate\obj\Debug\35_MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\35_MultiCastDelegate\obj\Debug\35_MultiCastDelegate.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\35_MultiCastDelegate\obj\Debug\35_MultiCastDelegate.pdb

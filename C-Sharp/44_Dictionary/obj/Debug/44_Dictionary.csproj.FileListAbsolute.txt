@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\44_Dictionary\bin\Debug\44_Dictionary.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\44_Dictionary\bin\Debug\44_Dictionary.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\44_Dictionary\bin\Debug\44_Dictionary.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\44_Dictionary\obj\Debug\44_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\44_Dictionary\obj\Debug\44_Dictionary.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\44_Dictionary\obj\Debug\44_Dictionary.pdb

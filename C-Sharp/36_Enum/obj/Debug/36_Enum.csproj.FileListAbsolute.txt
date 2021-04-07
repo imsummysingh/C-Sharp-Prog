@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\36_Enum\bin\Debug\36_Enum.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\36_Enum\bin\Debug\36_Enum.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\36_Enum\bin\Debug\36_Enum.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\36_Enum\obj\Debug\36_Enum.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\36_Enum\obj\Debug\36_Enum.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\36_Enum\obj\Debug\36_Enum.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\36_Enum\obj\Debug\36_Enum.pdb

@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\37_EarlyBinding\bin\Debug\37_EarlyBinding.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\37_EarlyBinding\bin\Debug\37_EarlyBinding.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\37_EarlyBinding\bin\Debug\37_EarlyBinding.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\37_EarlyBinding\obj\Debug\37_EarlyBinding.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\37_EarlyBinding\obj\Debug\37_EarlyBinding.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\37_EarlyBinding\obj\Debug\37_EarlyBinding.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\37_EarlyBinding\obj\Debug\37_EarlyBinding.pdb
