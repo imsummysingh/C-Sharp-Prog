@@ -4,3 +4,4 @@ C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\38_GenericClasses\bin\Debug
 C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\38_GenericClasses\obj\Debug\38_GenericClasses.csproj.CoreCompileInputs.cache
 C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\38_GenericClasses\obj\Debug\38_GenericClasses.exe
 C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\38_GenericClasses\obj\Debug\38_GenericClasses.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\38_GenericClasses\obj\Debug\38_GenericClasses.csprojAssemblyReference.cache

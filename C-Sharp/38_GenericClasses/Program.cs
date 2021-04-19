@@ -27,6 +27,16 @@ namespace _38_GenericClasses
                 Console.WriteLine("Not Equal");
             }
 
+            bool Equal1 = Calculator.AreEqual<string>("Summy", "Summy");
+            if (Equal1)
+            {
+                Console.WriteLine("Equal");
+            }
+            else
+            {
+                Console.WriteLine("Not Equal");
+            }
+
             Console.ReadLine();
         }
     }

@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\61_Constructor\bin\Debug\61_Constructor.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\61_Constructor\bin\Debug\61_Constructor.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\61_Constructor\bin\Debug\61_Constructor.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\61_Constructor\obj\Debug\61_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\61_Constructor\obj\Debug\61_Constructor.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\61_Constructor\obj\Debug\61_Constructor.pdb

@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\59_ClassObject\bin\Debug\59_ClassObject.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\59_ClassObject\bin\Debug\59_ClassObject.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\59_ClassObject\bin\Debug\59_ClassObject.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\59_ClassObject\obj\Debug\59_ClassObject.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\59_ClassObject\obj\Debug\59_ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\59_ClassObject\obj\Debug\59_ClassObject.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\59_ClassObject\obj\Debug\59_ClassObject.pdb
