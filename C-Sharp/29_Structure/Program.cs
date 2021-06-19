@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _29_Structure
 {
-    class Program
+    struct Program
     {
         private int _id;
         private string _name;

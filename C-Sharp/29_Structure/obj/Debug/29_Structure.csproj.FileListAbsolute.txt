@@ -4,3 +4,4 @@ C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\29_Structure\bin\Debug\29_S
 C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\29_Structure\obj\Debug\29_Structure.csproj.CoreCompileInputs.cache
 C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\29_Structure\obj\Debug\29_Structure.exe
 C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\29_Structure\obj\Debug\29_Structure.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\29_Structure\obj\Debug\29_Structure.csprojAssemblyReference.cache
