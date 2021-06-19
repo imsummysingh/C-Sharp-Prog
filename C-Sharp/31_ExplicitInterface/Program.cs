@@ -29,6 +29,7 @@ namespace _31_ExplicitInterface
             Me m = new Me();
             m.Print();
             ((I2)m).Print();
+            ((I1)m).Print();
 
             Console.ReadLine();
         }

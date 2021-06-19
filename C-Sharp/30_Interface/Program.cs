@@ -19,7 +19,14 @@ namespace _30_Interface
         //print()
         void Print2();
     }
-    public class InterfaceImplement: I2,I3
+    public class Consumer
+    {
+        public void Print4()
+        {
+            Console.WriteLine("Hello from class not interface");
+        }
+    }
+    public class InterfaceImplement: Consumer,I2, I3
     {
         public void Print()
         {
@@ -44,9 +51,13 @@ namespace _30_Interface
             im.Print();
             im.Print1();
             im.Print2();
+            im.Print4();
 
             I1 i = new InterfaceImplement();
             i.Print();
+
+            I2 i2 = new InterfaceImplement();
+            i2.Print1();
 
             Console.ReadLine();
         }
