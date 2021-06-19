@@ -16,6 +16,7 @@ namespace _30_Interface
 
     interface I3 : I1
     {
+        //print()
         void Print2();
     }
     public class InterfaceImplement: I2,I3
