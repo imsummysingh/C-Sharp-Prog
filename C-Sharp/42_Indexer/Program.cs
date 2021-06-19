@@ -55,6 +55,9 @@ namespace _42_Indexer
             c[3] = "Vishal Vaibhav";
             Console.WriteLine("Employee with id: 3 and Name:{0}", c[3]);
 
+            //c[6] = "Gupta";
+            //Console.WriteLine("Employee with id: 6 and Name:{0}", c[6]);
+
             Console.ReadLine();
         }
     }

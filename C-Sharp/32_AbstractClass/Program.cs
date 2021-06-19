@@ -6,12 +6,21 @@ using System.Threading.Tasks;
 
 namespace _32_AbstractClass
 {
+    //interface I1
+    //{
+    //    void P1();
+    //}
     public abstract class Customer
     {
+        //public void P1()
+        //{
+        //    Console.WriteLine
+        //}
         public void print()
         {
             Console.WriteLine("Hello From Abstract Class");
         }
+        public abstract void print1();
     }
 
     public class Implemented : Customer
@@ -24,6 +33,10 @@ namespace _32_AbstractClass
         {
             Console.WriteLine("From ANother Class which implemented abstract");
         }
+        public override void print1()
+        {
+            Console.WriteLine("OF abstract");
+        }
     }
     class Program
     {
@@ -32,7 +45,7 @@ namespace _32_AbstractClass
             Implemented im = new Implemented();
             im.Print();
             im.print();
-
+            im.print1();
 
             Console.ReadLine();
         }

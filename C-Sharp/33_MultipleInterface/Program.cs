@@ -51,6 +51,12 @@ namespace _33_MultipleInterface
             all.PrintA();
             all.PrintB();
 
+            A a1 = new A();
+            a1.PrintA();
+
+            B b1 = new B();
+            b1.PrintB();
+
             Console.ReadLine();
         }
     }

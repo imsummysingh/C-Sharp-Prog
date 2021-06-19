@@ -12,6 +12,10 @@ namespace _38_GenericClasses
         {
             return value1.Equals(value2);
         }
+        public static bool AreEqual<T,T1>(T value1, T1 value2)
+        {
+            return value1.Equals(value2);
+        }
     }
     class Program
     {
@@ -29,6 +33,16 @@ namespace _38_GenericClasses
 
             bool Equal1 = Calculator.AreEqual<string>("Summy", "Summy");
             if (Equal1)
+            {
+                Console.WriteLine("Equal");
+            }
+            else
+            {
+                Console.WriteLine("Not Equal");
+            }
+
+            bool Equal2 = Calculator.AreEqual<int, string>(1, "Summy");
+            if (Equal2)
             {
                 Console.WriteLine("Equal");
             }
