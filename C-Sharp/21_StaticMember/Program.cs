@@ -33,6 +33,7 @@ namespace _21_StaticMember
             float Area1 = c2.Area();
             Console.WriteLine("Area is: {0}", Area1);
 
+            
             Console.ReadLine();
         }
     }

@@ -36,6 +36,9 @@ namespace _57_Polymophism
             //Derived d1 = new Base();    //cannot implicit convert
             //d1.print();
 
+            //((Employee)PTE).FullName();
+            //((Base)d).print();
+
             Console.ReadLine();
         }
     }

@@ -11,7 +11,7 @@ namespace _16_ReferenceParameter
         static void Main(string[] args)
         {
             int i = 10;
-            ReferenceMethod(ref i);
+            ReferenceMethod(ref i);            
             Console.WriteLine(i);
             Console.ReadLine();
         }

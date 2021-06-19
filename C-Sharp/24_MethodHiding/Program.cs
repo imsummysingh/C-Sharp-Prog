@@ -25,7 +25,7 @@ namespace _24_MethodHiding
             //Calls the base class method
             //base.FullName();
 
-            Console.WriteLine(FirstName + " " + LastName+" -Contract Basis");
+            Console.WriteLine(FirstName + " " + LastName + " -Contract Basis");
         }
     }
     class Program
@@ -41,7 +41,12 @@ namespace _24_MethodHiding
             PTE.FirstName = "Ranjeet";
             PTE.LastName = "Kumar";
             PTE.FullName();
-            //((Employee)PTE).FullName();   --calls the base class method and override the own method
+
+            //((Employee)PTE).FullName();   //--calls the base class method and override the own method
+            Employee e1 = new PartTimeEmployee();
+            e1.FirstName = "Shhubham";
+            e1.LastName = "Gupta";
+            e1.FullName();
 
             Console.ReadLine();
         }

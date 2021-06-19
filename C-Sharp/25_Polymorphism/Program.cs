@@ -43,6 +43,9 @@ namespace _25_Polymorphism
             Employee emp2 = new PartTime();
             emp2.FullName();
 
+            PartTime pte = new PartTime();
+            pte.FullName();
+
             Console.ReadLine();
         }
     }

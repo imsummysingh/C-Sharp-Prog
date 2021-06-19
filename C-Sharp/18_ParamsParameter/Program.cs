@@ -18,6 +18,10 @@ namespace _18_ParamsParameter
 
             ParamsMethod(1, 2, 3, 4, 5);
 
+            //ParamArray(1);
+            //ParamArray(1, 2);
+            //ParamArray(1, 2, 3, 4, 5, 6, 7);
+
             Console.ReadLine();
         }
 
@@ -30,5 +34,16 @@ namespace _18_ParamsParameter
                 Console.WriteLine(i);
             }
         }
+
+        //public static void ParamArray(int a, params int[] arr)
+        //{
+        //    int sum;
+        //    foreach(int i in arr)
+        //    {
+        //        sum = a + arr[i];
+        //        Console.WriteLine("Sum is: {0}", sum);
+        //    }
+            
+        //}
     }
 }

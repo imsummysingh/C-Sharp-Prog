@@ -51,6 +51,7 @@ namespace _28_Properties
             }
         }
 
+
         static void Main(string[] args)
         {
             Program p = new Program();
