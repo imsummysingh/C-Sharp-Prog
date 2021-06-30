@@ -19,8 +19,9 @@ namespace _23_InheritanceConstructor
     }
     public class child : parent
     {
+        
         public child():base("Overloaded Parent class parameterized constructor controlled by child class")
-        {
+        {            
             Console.WriteLine("Child Class Constructor");
         }
     }

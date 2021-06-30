@@ -20,7 +20,7 @@ namespace _18_ParamsParameter
 
             //ParamArray(1);
             //ParamArray(1, 2);
-            //ParamArray(1, 2, 3, 4, 5, 6, 7);
+            ParamArray(0, 2, 3, 4, 5, 6, 7);
 
             Console.ReadLine();
         }
@@ -35,15 +35,15 @@ namespace _18_ParamsParameter
             }
         }
 
-        //public static void ParamArray(int a, params int[] arr)
-        //{
-        //    int sum;
-        //    foreach(int i in arr)
-        //    {
-        //        sum = a + arr[i];
-        //        Console.WriteLine("Sum is: {0}", sum);
-        //    }
-            
-        //}
+        public static void ParamArray(int a, params int[] arr)
+        {
+            Console.WriteLine("Another param Array");
+            Console.WriteLine(a);
+            foreach (int i in arr)
+            {
+                Console.WriteLine(i);
+            }
+
+        }
     }
 }

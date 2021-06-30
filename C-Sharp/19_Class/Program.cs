@@ -13,7 +13,7 @@ namespace _19_Class
 
         public Customer():this("Summy","Singh")
         {
-    
+            Console.WriteLine("Default");
         }
 
         public Customer(string fname, string lname)

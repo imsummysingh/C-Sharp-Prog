@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\63_InheritanceConstructor\bin\Debug\63_InheritanceConstructor.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\63_InheritanceConstructor\bin\Debug\63_InheritanceConstructor.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\63_InheritanceConstructor\bin\Debug\63_InheritanceConstructor.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\63_InheritanceConstructor\obj\Debug\63_InheritanceConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\63_InheritanceConstructor\obj\Debug\63_InheritanceConstructor.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\63_InheritanceConstructor\obj\Debug\63_InheritanceConstructor.pdb

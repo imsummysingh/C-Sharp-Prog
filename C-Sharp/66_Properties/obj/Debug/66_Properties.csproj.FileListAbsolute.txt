@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\66_Properties\bin\Debug\66_Properties.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\66_Properties\bin\Debug\66_Properties.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\66_Properties\bin\Debug\66_Properties.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\66_Properties\obj\Debug\66_Properties.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\66_Properties\obj\Debug\66_Properties.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\66_Properties\obj\Debug\66_Properties.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\66_Properties\obj\Debug\66_Properties.pdb
