@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\69_PrivateConstructor1\bin\Debug\69_PrivateConstructor1.exe.config
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\69_PrivateConstructor1\bin\Debug\69_PrivateConstructor1.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\69_PrivateConstructor1\bin\Debug\69_PrivateConstructor1.pdb
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\69_PrivateConstructor1\obj\Debug\69_PrivateConstructor1.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\69_PrivateConstructor1\obj\Debug\69_PrivateConstructor1.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\69_PrivateConstructor1\obj\Debug\69_PrivateConstructor1.exe
+C:\Users\ssingh687\source\repos\C-Sharp-Prog\C-Sharp\69_PrivateConstructor1\obj\Debug\69_PrivateConstructor1.pdb
